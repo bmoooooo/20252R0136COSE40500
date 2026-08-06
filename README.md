@@ -1,4 +1,4 @@
-# 10 Easy Beginner Codes
+# 11 Easy Beginner Codes
 
 Algorithms
 - Binary Search Algorithm Implementation
